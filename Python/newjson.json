@@ -1,0 +1,13 @@
+{
+		"device1" : ["ios","29XX"],
+		"other_device" : [
+		{
+			"platform":"2911",
+			"code":"ios"
+		}
+		{
+			"platform":"2951",
+			"code":"ios"
+		}
+	]
+}

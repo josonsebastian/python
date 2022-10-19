@@ -1,0 +1,5 @@
+Value SEQN (\d+)
+Value NEXT (\S+)
+
+Start
+  ^  ${SEQN} ${NEXT} -> Record
